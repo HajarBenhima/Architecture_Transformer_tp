@@ -1,0 +1,33 @@
+Le matin se levait doucement sur la ville. Les rues étaient encore calmes et les premières boulangeries ouvraient leurs portes. Une odeur de pain chaud flottait dans l'air frais. Les passants marchaient lentement, les mains dans les poches, en regardant le ciel qui passait du gris au bleu.
+
+Sur la place du marché, les commerçants installaient leurs étals. Il y avait des tomates rouges, des oranges, des pommes vertes et des herbes fraîches. Les enfants couraient entre les tables pendant que leurs parents discutaient des prix. Le vieux marchand de fruits souriait à tout le monde et racontait des histoires sur son village.
+
+Dans une petite maison au bout de la rue, une étudiante préparait ses cours. Elle ouvrait son ordinateur, relisait ses notes et buvait un thé à la menthe. Elle avait un examen important la semaine suivante. Le sujet portait sur l'intelligence artificielle et sur les réseaux de neurones. Elle voulait comprendre comment une machine peut apprendre à partir des données.
+
+Son professeur avait expliqué que l'apprentissage automatique consiste à trouver des régularités dans les exemples. Un modèle reçoit des données en entrée, produit une prédiction, puis compare cette prédiction avec la bonne réponse. L'erreur est ensuite utilisée pour corriger les paramètres du modèle. En répétant cette opération des milliers de fois, le modèle devient de plus en plus précis.
+
+Les réseaux récurrents lisent une séquence élément par élément. Ils gardent une mémoire qui résume ce qu'ils ont déjà vu. Cette mémoire est mise à jour à chaque instant. Cependant, lorsque la séquence est très longue, le réseau oublie facilement les informations anciennes. Les réseaux LSTM ont été proposés pour mieux conserver la mémoire grâce à des portes qui décident quoi garder et quoi oublier.
+
+Le Transformer a changé la manière de traiter les séquences. Au lieu de lire les mots un par un, il regarde toute la phrase en même temps. Le mécanisme d'attention permet à chaque mot de chercher les autres mots qui sont importants pour lui. Par exemple, dans la phrase le chat mange parce qu'il a faim, le mot il doit faire attention au mot chat. Grâce à l'attention, le modèle peut relier des mots éloignés sans difficulté.
+
+Un modèle de type GPT apprend à prédire le mot suivant. Il lit le début d'un texte et propose la suite. Pour cela, il utilise un masque causal qui l'empêche de regarder le futur. Chaque position ne voit que les positions précédentes. Pendant la génération, le modèle choisit un mot, l'ajoute au texte, puis recommence. C'est ainsi qu'il peut écrire des phrases entières, des paragraphes et même des histoires.
+
+Un modèle de type BERT fonctionne autrement. Il cache certains mots dans une phrase et essaie de les retrouver. Comme il peut regarder à gauche et à droite du mot caché, il comprend très bien le contexte. BERT est souvent utilisé pour classer des textes, répondre à des questions ou reconnaître des noms dans une phrase.
+
+L'après-midi, l'étudiante sortit marcher au bord de la mer. Les vagues venaient frapper les rochers et le vent soufflait fort. Des pêcheurs réparaient leurs filets sur le port. Des mouettes tournaient au-dessus des bateaux en criant. Elle s'assit sur un banc et regarda l'horizon. Elle pensait à son avenir, à ses projets et à tout ce qu'elle voulait apprendre.
+
+Plus tard, elle retrouva ses amis dans un café. Ils parlèrent de leurs cours, de leurs stages et de leurs voyages. L'un d'eux voulait devenir ingénieur dans une grande entreprise. Une autre rêvait d'ouvrir sa propre société. Ils riaient, partageaient des idées et se donnaient des conseils. Le serveur apporta des cafés, des jus d'orange et quelques gâteaux.
+
+Le soir, la ville changeait de visage. Les lumières s'allumaient dans les fenêtres et les rues devenaient plus animées. Les familles se réunissaient autour de la table pour dîner. On entendait de la musique, des voix et des rires. Dans le ciel, les étoiles apparaissaient une à une au-dessus des toits.
+
+Avant de dormir, l'étudiante ouvrit encore une fois son cahier. Elle écrivit un résumé de la journée et une liste de choses à faire pour le lendemain. Réviser les réseaux de neurones. Refaire les exercices sur l'attention. Lire un article sur les modèles de langage. Elle ferma ensuite son cahier, éteignit la lumière et s'endormit en pensant aux machines qui apprennent.
+
+Le lendemain matin, il pleuvait. Les gouttes tombaient sur les vitres et les gens marchaient vite avec leurs parapluies. Dans le bus, une vieille dame lisait un journal et un jeune homme écoutait de la musique. Le chauffeur saluait chaque passager avec politesse. Le trajet était long, mais l'étudiante en profita pour relire ses fiches.
+
+À l'université, le professeur commença le cours par une question simple. Pourquoi un modèle de langage peut-il écrire un texte qui semble naturel ? Les étudiants proposèrent plusieurs réponses. Le professeur expliqua que le modèle a vu énormément de textes pendant son entraînement. Il a appris quelles lettres, quels mots et quelles phrases apparaissent souvent ensemble. Il ne comprend pas le monde comme un humain, mais il sait reproduire les régularités du langage.
+
+Ensuite, il parla de la température. Quand la température est faible, le modèle choisit presque toujours le mot le plus probable et le texte devient répétitif. Quand la température est élevée, le modèle prend plus de risques et le texte devient plus varié, parfois même incohérent. Il faut donc trouver un bon équilibre entre la précision et la créativité.
+
+Le cours se termina par un petit exercice. Chaque étudiant devait construire un mini modèle de langage capable de prédire le caractère suivant d'un texte. Le modèle serait petit, mais il permettrait de comprendre les idées principales. Les étudiants étaient curieux et motivés. Ils savaient que derrière les grands modèles se cachent des principes simples : des données, une architecture et beaucoup d'entraînement.
+
+En rentrant chez elle, l'étudiante passa devant la bibliothèque. Elle emprunta deux livres, un sur les mathématiques et un roman d'aventure. Le roman racontait l'histoire d'un marin qui traversait l'océan pour retrouver sa famille. Pendant des semaines, il affrontait les tempêtes, la faim et la solitude. Mais il ne perdait jamais espoir, car il savait que quelqu'un l'attendait de l'autre côté de la mer.
